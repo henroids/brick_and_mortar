@@ -1,0 +1,58 @@
+.Rectangle-1 {
+  display: inline-flex;
+  width: 77px;
+  height: 76px;
+  margin: 21px 22px 0 0;
+  border: solid 3px #bf3a3a;
+  background-color: #bf3a3a;
+}
+
+.Rectangle-4 {
+  display: inline-flex;
+  width: 43px;
+  height: 21px;
+  margin: 0 15px 0 16px;
+  border: solid 3px #bf3a3a;
+  background-color: #bf3a3a;
+}
+
+.Rectangle-5 {
+  display: inline-flex;
+  width: 43px;
+  height: 16px;
+  margin: 5px 24px 0 32px;
+  border: solid 3px #bf3a3a;
+  background-color: #e24c4c;
+}
+
+.Path-1 {
+  display: inline-flex;
+  width: 25px;
+  height: 78.9px;
+  margin: 18.1px 0 0 15px;
+  border: solid 3px #bf3a3a;
+  background-color: #e24c4c;
+}
+
+.Path-2 {
+  display: inline-flex;
+  width: 99px;
+  height: 4px;
+  margin: 18px 0 75px;
+  border: solid 3px #bf3a3a;
+  background-color: #bf3a3a;
+}
+
+.brick {
+  display: inline-block;
+  margin-left: -20px;
+  margin-top: -25px;
+}
+
+html {
+  background: mediumaquamarine;
+}
+
+.first_brick {
+  margin-left: -20px;
+}
